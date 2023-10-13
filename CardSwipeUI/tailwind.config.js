@@ -6,6 +6,9 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily:{
+        'Teko':['DM Serif Display', 'serif']
+      }
     },
   },
   plugins: [],
